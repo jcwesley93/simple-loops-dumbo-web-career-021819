@@ -21,9 +21,9 @@ end
 
 def times_iterator(number_of_times)
   # code your solution here using the "times" keyword
-  7.times.do
+  number_of_times.times.do
     puts "Welcome to Flation School's Web Development Course!"
-  end
+end
 
 
 def while_iterator(number_of_times)
